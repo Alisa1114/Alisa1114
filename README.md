@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alisa1114
 - 👀 I’m interested in machine learning, deep learning, japanese animation 
-- 🌱 I’m currently learning deep learning
+- 🌱 I’m learning deep learning now
 - 📫 How to reach me kafuchino0410@gmail.com
 
 <!---

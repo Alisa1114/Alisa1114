@@ -1,4 +1,4 @@
-# - 👋 Hi, I’m @Alisa1114
+# - 👋 Hi, I’m Alisa1114
 - 👀 I’m interested in machine learning, deep learning, japanese animation. 
 - Now I have manage [Medium](http://alisachen1114.medium.com)
 # - 📫 How to reach me 

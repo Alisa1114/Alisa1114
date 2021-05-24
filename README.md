@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning, deep learning, japanese animation. 
 - Now I have manage [Medium](http://alisachen1114.medium.com)
 # - 📫 How to reach me 
-- gmail: [kafuchino0410@gmail.com](kafuchino0410@gmail.com)
+- gmail: [kafuchino0410@gmail.com](http://kafuchino0410@gmail.com)
 
 <!---
 Alisa1114/Alisa1114 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
